@@ -1,1 +1,2 @@
 # CollectionViewLayout
+通过使用collection来实现分段并且支持cell的横向滑动，以及每一段每个cell的高度不同。
